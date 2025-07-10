@@ -38,11 +38,6 @@ The goal is to optimize parking prices in real time based on demand patterns and
 - `comparison_plot.png` – final plot comparing prices
 - `README.md` – this file
 
-## ✅ How to Run
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-
 ---
 
 ## 🧠 Architecture Diagram
@@ -58,3 +53,11 @@ flowchart TD
     E --> H[model3_output.csv]
     F & G & H --> I[Comparison Script]
     I --> J[model_comparison_plot.png]
+```
+
+---
+
+## ✅ How to Run
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
