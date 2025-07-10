@@ -54,3 +54,10 @@ flowchart TD
     F & G & H --> I[Comparison Script]
     I --> J[model_comparison_plot.png]
 ```
+---
+
+# Other Files in the repo
+The other files in this repo are : 
+Week 1 code file - Hrishita_Answers_SA2025_W1.ipynb
+1st hackathon code file - Summer_Analytics_Assignment_2.ipynb
+2nd hackathon code file - Summer_Analytics_final_hackathon.ipynb
