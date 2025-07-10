@@ -22,7 +22,7 @@ The goal is to optimize parking prices in real time based on demand patterns and
 
 ---
 
-## 🔁 Workflow Explanation
+## Workflow Explanation
 1. **Data Preprocessing**: Clean raw CSV and create engineered features.
 2. **Model 1: Baseline**: Price = base + α × occupancy/capacity
 3. **Model 2: Demand-Based**: Adjusted pricing based on local demand from neighboring lots.
@@ -31,7 +31,7 @@ The goal is to optimize parking prices in real time based on demand patterns and
 
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 - `Urban_Parking_Dynamic_Pricing.ipynb` – main notebook with implementation
 - `parking_stream.csv` – sample stream for Pathway
 - `baseline_output.csv`, `model2_output.csv`, `model3_output.csv` – pricing outputs
@@ -40,7 +40,7 @@ The goal is to optimize parking prices in real time based on demand patterns and
 
 ---
 
-## 🧠 Architecture Diagram
+## Architecture Diagram
 
 ```mermaid
 flowchart TD
@@ -57,7 +57,8 @@ flowchart TD
 
 ---
 
-## ✅ How to Run
+## How to Run
 1. Install dependencies:
 ```bash
 pip install -r requirements.txt
+```
