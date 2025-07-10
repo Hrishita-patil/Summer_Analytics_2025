@@ -1,6 +1,6 @@
-# 🚗 Urban Parking Dynamic Pricing - Summer Analytics 2025 Capstone Project
+# Urban Parking Dynamic Pricing - Summer Analytics 2025 Capstone Project
 
-## 📌 Project Overview
+## Project Overview
 
 This project implements a dynamic pricing system for urban parking spaces using time-series and geo-spatial data. We developed three pricing models:
 1. **Model 1**: Baseline static pricing based on occupancy ratio.
@@ -11,7 +11,7 @@ The goal is to optimize parking prices in real time based on demand patterns and
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 - Python 3.11
 - Pandas, NumPy, Matplotlib
