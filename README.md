@@ -54,11 +54,3 @@ flowchart TD
     F & G & H --> I[Comparison Script]
     I --> J[model_comparison_plot.png]
 ```
-
----
-
-## How to Run
-1. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
