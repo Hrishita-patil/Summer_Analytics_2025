@@ -22,6 +22,29 @@ The goal is to optimize parking prices in real time based on demand patterns and
 
 ---
 
+## 🔁 Workflow Explanation
+1. **Data Preprocessing**: Clean raw CSV and create engineered features.
+2. **Model 1: Baseline**: Price = base + α × occupancy/capacity
+3. **Model 2: Demand-Based**: Adjusted pricing based on local demand from neighboring lots.
+4. **Model 3: Geo + Demand**: Combines spatial and temporal features to estimate competitive pricing.
+5. **Comparison**: All models evaluated across timestamps and visualized.
+
+---
+
+## 📁 Repository Structure
+- `Urban_Parking_Dynamic_Pricing.ipynb` – main notebook with implementation
+- `parking_stream.csv` – sample stream for Pathway
+- `baseline_output.csv`, `model2_output.csv`, `model3_output.csv` – pricing outputs
+- `comparison_plot.png` – final plot comparing prices
+- `README.md` – this file
+
+## ✅ How to Run
+1. Install dependencies:
+```bash
+pip install -r requirements.txt
+
+---
+
 ## 🧠 Architecture Diagram
 
 ```mermaid
