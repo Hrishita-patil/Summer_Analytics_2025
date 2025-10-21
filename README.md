@@ -59,5 +59,5 @@ flowchart TD
 ## Other Files in the repo
 The other files in this repo are : 
 1. Week 1 code file - Hrishita_Answers_SA2025_W1.ipynb
-2. 1st hackathon code file - Summer_Analytics_Assignment_2.ipynb
-3. 2nd hackathon code file - Summer_Analytics_final_hackathon.ipynb
+2. 1st hackathon code file - Summer_Analytics_Assignment_2.ipynb 
+3. 2nd hackathon code file (Hackathon Theme: Nutrition & Health Survey – Age Prediction Challenge [Link - https://aiplanet.com/challenges/358/nutrition-health-survey-age-prediction-summer-analytics-2025-iit-guwahati-07302b63/overview/about]) -   Summer_Analytics_final_hackathon.ipynb
